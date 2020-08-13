@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="plane_number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="time_entries">
+        <item>1:00</item>
+        <item>2:00</item>
+        <item>3:00</item>
+    </string-array>
+    <string-array name="time_vals">
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Battle Ship Enigma</string>
+    <string name="frugality_sum_off">No punishment for missed targets</string>
+    <string name="frugalitymode">Frugality mode</string>
+    <string name="frugalitymode_sum_on">Every missed projectile takes points away. Make them count!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="highscore">Congratulations you got the new High Score!</string>
+    <string name="hint">Enter your name here</string>
+    <string name="label">Battle Ship Enigma</string>
+    <string name="missile_sum_off">You can only fire one missile from each cannon, until it explodes or leaves the screen</string>
+    <string name="missile_sum_on">You can fire manny missiles, virtually unlimited ammo</string>
+    <string name="missilebarrage">Missile barrage</string>
+    <string name="negative_button">Cancel</string>
+    <string name="nothighscore">Your score is</string>
+    <string name="numberofplanes">Number of planes</string>
+    <string name="numberofplanes_sum">Number of planes on screen</string>
+    <string name="numberofsubs">Number of subs</string>
+    <string name="numberofsubs_sum">Number of subs on screen</string>
+    <string name="playagain">Play Again!</string>
+    <string name="positive_button">OK</string>
+    <string name="quit">Quit</string>
+    <string name="rapidfire">"Rapid-fire depth charges</string>
+    <string name="rapidfire_sum_off">You can fire only one at a time</string>
+    <string name="rapidfire_sum_on">You can fire many at a time</string>
+    <string name="score">Score: </string>
+    <string name="set_time">Set time in munites</string>
+    <string name="soundeffects">Sound effects</string>
+    <string name="soundeffects_sum_off">Sound effects off</string>
+    <string name="soundeffects_sum_on">Sound effects on</string>
+    <string name="splash_description">A rip off of the classic game Battle Ship originally made for the Commodore64</string>
+    <string name="time">Time: </string>
+    <string name="time_prefs">Minutes to play</string>
+    <string name="top">Congratulations you got one of the top five scores!</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

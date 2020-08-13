@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:title="@string/missilebarrage"
+        android:summaryOff="@string/missile_sum_off"
+        android:summaryOn="@string/missile_sum_on"
+        android:defaultValue="true"
+        android:key="barrage" />
+    <CheckBoxPreference
+        android:title="@string/rapidfire"
+        android:summaryOff="@string/rapidfire_sum_off"
+        android:summaryOn="@string/rapidfire_sum_on"
+        android:defaultValue="true"
+        android:key="rapidFire" />
+    <CheckBoxPreference
+        android:title="@string/soundeffects"
+        android:summaryOff="@string/soundeffects_sum_off"
+        android:summaryOn="@string/soundeffects_sum_on"
+        android:defaultValue="true"
+        android:key="sounds" />
+    <ListPreference
+        android:title="@string/numberofplanes"
+        android:summary="@string/numberofplanes_sum"
+        android:negativeButtonText="@string/negative_button"
+        android:positiveButtonText="@string/positive_button"
+        android:entries="@array/plane_number"
+        android:entryValues="@array/plane_number"
+        android:defaultValue="3"
+        android:key="numberPlanes" />
+    <ListPreference
+        android:title="@string/numberofsubs"
+        android:summary="@string/numberofsubs_sum"
+        android:negativeButtonText="@string/negative_button"
+        android:positiveButtonText="@string/positive_button"
+        android:entries="@array/plane_number"
+        android:entryValues="@array/plane_number"
+        android:defaultValue="3"
+        android:key="numberSubs"/>
+    <CheckBoxPreference
+        android:title="@string/frugalitymode"
+        android:summaryOff="@string/frugality_sum_off"
+        android:summaryOn="@string/frugalitymode_sum_on"
+        android:defaultValue="false"
+        android:key="frugality"/>
+    <ListPreference
+        android:title="@string/time_prefs"
+        android:summary="@string/set_time"
+        android:negativeButtonText="@string/negative_button"
+        android:positiveButtonText="@string/positive_button"
+        android:entries="@array/time_entries"
+        android:entryValues="@array/time_vals"
+        android:defaultValue="180"
+        android:key="time"/>
+</PreferenceScreen>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Battle Ship Enigma</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="highscore">Congratulations you got the new High Score!</string>
+    <string name="nothighscore">Your score is</string>
+    <string name="playagain">Play Again!</string>
+    <string name="quit">Quit</string>
+    <string name="missilebarrage">Missile barrage</string>
+    <string name="missile_sum_on">You can fire manny missiles, virtually unlimited ammo</string>
+    <string name="missile_sum_off">You can only fire one missile from each cannon, until it explodes or leaves the screen</string>
+    <string name="rapidfire">"Rapid-fire depth charges</string>
+    <string name="rapidfire_sum_on">You can fire many at a time</string>
+    <string name="rapidfire_sum_off">You can fire only one at a time</string>
+    <string name="soundeffects">Sound effects</string>
+    <string name="soundeffects_sum_off">Sound effects off</string>
+    <string name="numberofplanes">Number of planes</string>
+    <string name="numberofplanes_sum">Number of planes on screen</string>
+    <string name="numberofsubs">Number of subs</string>
+    <string name="numberofsubs_sum">Number of subs on screen</string>
+    <string name="frugalitymode">Frugality mode</string>
+    <string name="frugalitymode_sum_on">Every missed projectile takes points away. Make them count!</string>
+    <string name="frugality_sum_off">No punishment for missed targets</string>
+    <string name="soundeffects_sum_on">Sound effects on</string>
+    <string name="time">Time: </string>
+    <string name="time_prefs">Minutes to play</string>
+    <string name="score">Score: </string>
+    <string name="hint">Enter your name here</string>
+    <string name="label">Battle Ship Enigma</string>
+    <string name="top">Congratulations you got one of the top five scores!</string>
+    <string name="splash_description">A rip off of the classic game Battle Ship originally made for the Commodore64</string>
+    <string name="set_time">Set time in munites</string>
+    <string name="negative_button">Cancel</string>
+    <string name="positive_button">OK</string>
+
+</resources>

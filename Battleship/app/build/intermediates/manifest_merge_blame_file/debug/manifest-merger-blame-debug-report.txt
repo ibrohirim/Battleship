@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="edu.byuh.cis.cs203.bw4"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:7:5-9:41
+8        android:minSdkVersion="8"
+8-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:8:9-34
+9        android:targetSdkVersion="19" />
+9-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:9:9-38
+10
+11    <application
+11-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:11:5-44:19
+12        android:allowBackup="true"
+12-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:12:9-35
+13        android:debuggable="true"
+14        android:icon="@drawable/ic_launcher"
+14-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:13:9-45
+15        android:label="@string/label"
+15-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:14:9-38
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:15:9-40
+18        <activity
+18-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:16:9-22:20
+19            android:name="edu.byuh.cis.cs203.bw4.MainActivity"
+19-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:20:13-63
+20            android:alwaysRetainTaskState="true"
+20-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:18:13-49
+21            android:label="Preferences"
+21-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:21:13-40
+22            android:screenOrientation="landscape"
+22-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:19:13-50
+23            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+23-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:17:13-71
+24        </activity>
+25        <activity
+25-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:23:9-25:20
+26            android:name="edu.byuh.cis.cs203.bw4.Prefs"
+26-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:23:19-40
+27            android:label="@string/action_settings" >
+27-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:24:13-52
+28        </activity>
+29        <activity
+29-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:26:9-34:20
+30            android:name="edu.byuh.cis.cs203.bw4.SplashActivity"
+30-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:26:19-49
+31            android:alwaysRetainTaskState="true"
+31-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:28:13-49
+32            android:screenOrientation="landscape"
+32-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:29:13-50
+33            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+33-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:27:13-73
+34            <intent-filter>
+34-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:30:13-33:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:31:17-68
+35-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:31:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:32:17-76
+37-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:32:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:35:9-43:20
+41            android:name="edu.byuh.cis.cs203.bw4.GameOver"
+41-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:35:19-43
+42            android:label="@string/label" >
+42-->/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/AndroidManifest.xml:36:13-42
+43
+44            <!-- <EditText -->
+45            <!-- android:id="@+id/text" -->
+46            <!-- android:layout_gravity="center" -->
+47            <!-- android:hint="name" -->
+48            <!-- android:inputType="text" -->
+49            <!-- android:imeActionLabel="done" /> -->
+50        </activity>
+51    </application>
+52
+53</manifest>

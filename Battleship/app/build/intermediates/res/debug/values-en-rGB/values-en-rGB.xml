@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Ibrahim/AndroidStudioProjects/Battleship1/Battleship_ReadyAimFire/app/src/main/res/values-en-rGB/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Опции</string>
+    <string name="app_name">Военен Кораб Енигма</string>
+    <string name="frugality_sum_off">Няма наказание за неуцелени цели</string>
+    <string name="frugalitymode">Режим на пестеливост</string>
+    <string name="frugalitymode_sum_on">Всяка ракета и всеки заряд който не уцели целта отнема точки</string>
+    <string name="hello_world">Здравей свят!</string>
+    <string name="highscore">Поздравления! Вие поставихте нов най-висок резултат!</string>
+    <string name="hint">Въведете името си тук</string>
+    <string name="label">Боен Кораб Енигма</string>
+    <string name="missile_sum_off">Може да изстрелвате само по-една ракета, докато тя унищожи целта или бъде изгубена в небесата</string>
+    <string name="missile_sum_on">Може да изстрелвате ракети една след друга без лимит</string>
+    <string name="missilebarrage">Ракетен бараж</string>
+    <string name="negative_button">Анулирай</string>
+    <string name="nothighscore">Вашият резултат е </string>
+    <string name="numberofplanes">Брой самолети</string>
+    <string name="numberofplanes_sum">Брой самолети на екрана</string>
+    <string name="numberofsubs">Брой подводници</string>
+    <string name="numberofsubs_sum">Брой подводници на екрана</string>
+    <string name="playagain">Играй отново</string>
+    <string name="positive_button">Избери</string>
+    <string name="quit">Изход</string>
+    <string name="rapidfire">Бързо пускане на дълбочинни заряди</string>
+    <string name="rapidfire_sum_off">Може да пускате само по един заряд докато той не унишожи целата или бъде изгубен в дълбочините</string>
+    <string name="rapidfire_sum_on">Може да пусакте многобройни заряди</string>
+    <string name="score">Точки: </string>
+    <string name="set_time">Избери време в минути</string>
+    <string name="soundeffects">Звукови ефекти</string>
+    <string name="soundeffects_sum_off">Звуковите ефекти са изключени</string>
+    <string name="soundeffects_sum_on">Звуковите ефекти са включени</string>
+    <string name="splash_description">Игра направена по модел на класическата игра <i>Боен Кораб</i> за системата <i>Комодор64</i></string>
+    <string name="time">Време: </string>
+    <string name="time_prefs">Минути на игра</string>
+    <string name="top">Поздравления вие сте един от петте най-високи резултата!</string>
+</resources>

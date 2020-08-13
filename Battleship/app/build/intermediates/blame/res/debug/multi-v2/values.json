@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,24,22,23,5,6,29,30,12,11,10,34,7,18,19,20,21,8,35,9,13,15,14,28,33,16,17,25,32,26,27,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "112,56,1493,1327,1384,165,218,1774,1828,599,502,443,2147,300,1067,1127,1201,1257,355,2198,405,730,867,794,1732,2090,945,1000,1572,1965,1637,1677,1881",
+                        "endColumns": "52,55,78,56,108,52,81,53,52,130,96,58,50,54,59,73,55,69,49,46,37,63,77,72,41,56,54,66,64,124,39,54,83",
+                        "endOffsets": "160,107,1567,1379,1488,213,295,1823,1876,725,594,497,2193,350,1122,1196,1252,1322,400,2240,438,789,940,862,1769,2142,995,1062,1632,2085,1672,1727,1960"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "633,686,742,821,878,987,1040,1122,1176,1229,1360,1457,1516,1567,1622,1682,1756,1812,1882,1932,1979,2017,2081,2159,2232,2274,2331,2386,2453,2518,2643,2683,2738",
+                        "endColumns": "52,55,78,56,108,52,81,53,52,130,96,58,50,54,59,73,55,69,49,46,37,63,77,72,41,56,54,66,64,124,39,54,83",
+                        "endOffsets": "681,737,816,873,982,1035,1117,1171,1224,1355,1452,1511,1562,1617,1677,1751,1807,1877,1927,1974,2012,2076,2154,2227,2269,2326,2381,2448,2513,2638,2678,2733,2817"
+                    }
+                },
+                {
+                    "source": "/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "55,62",
+                        "startColumns": "4,4",
+                        "startOffsets": "2822,3113",
+                        "endLines": "61,64",
+                        "endColumns": "12,12",
+                        "endOffsets": "3108,3268"
+                    }
+                },
+                {
+                    "source": "/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/res/values/arrays.xml",
+                    "from": {
+                        "startLines": "2,15,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,397,262",
+                        "endLines": "9,19,14",
+                        "endColumns": "19,19,19",
+                        "endOffsets": "256,533,391"
+                    },
+                    "to": {
+                        "startLines": "2,10,15",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,252,389",
+                        "endLines": "9,14,19",
+                        "endColumns": "19,19,19",
+                        "endOffsets": "247,384,514"
+                    }
+                },
+                {
+                    "source": "/Users/ibrahimkarmadzha/Projects/SchoolProjects/javaProjects/AndroidProjects/Battleship/Battleship/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "519,577",
+                        "endColumns": "57,55",
+                        "endOffsets": "572,628"
+                    }
+                }
+            ]
+        }
+    ]
+}
